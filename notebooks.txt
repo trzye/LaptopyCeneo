@@ -1,0 +1,115 @@
+<h2><span class="mw-headline" id="Laptop_computers">Laptop computers</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_Thunderbolt-compatible_devices&amp;action=edit&amp;section=1" title="Edit section: Laptop computers">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<dl>
+<dt><a href="/wiki/Apple_Inc." title="Apple Inc.">Apple</a></dt>
+</dl>
+<ul>
+<li><a href="/wiki/MacBook_Pro" title="MacBook Pro">MacBook Pro</a> (February 24, 2011)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup></li>
+<li><a href="/wiki/MacBook_Air" title="MacBook Air">MacBook Air</a> (July 20, 2011)<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup></li>
+<li><a href="/wiki/MacBook_pro#Third_generation_.28Retina.29" class="mw-redirect" title="MacBook pro">MacBook Pro with Retina Display</a> (June 11, 2012)</li>
+</ul>
+<dl>
+<dt><a href="/wiki/Acer_Inc." title="Acer Inc.">Acer</a></dt>
+</dl>
+<ul>
+<li>Aspire S5</li>
+<li>Aspire V15 Nitro Black Edition (VN7-592G, VN7-792G) (Thunderbolt 3)<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup></li>
+<li><a href="/wiki/Acer_Predator" class="mw-redirect" title="Acer Predator">Acer Predator</a> 15 (G9-591G) (Thunderbolt 3)<sup id="cite_ref-acerpred_4-0" class="reference"><a href="#cite_note-acerpred-4">[4]</a></sup></li>
+<li>Acer Predator 17 (G9-791, G9-792) (Thunderbolt 3)<sup id="cite_ref-acerpred_4-1" class="reference"><a href="#cite_note-acerpred-4">[4]</a></sup></li>
+<li>Acer Aspire Switch 12 S (Thunderbolt 3)<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup></li>
+<li>Acer Aspire Switch Alpha 12 (SA5-271) (Thunderbolt 3)</li>
+</ul>
+<dl>
+<dt><a href="/wiki/Asus" title="Asus">Asus</a></dt>
+</dl>
+<ul>
+<li>G501JW</li>
+<li>G501VW (Thunderbolt 3)</li>
+<li>G55VW, G46VW</li>
+<li>G75VX</li>
+<li>G750JW, G750JX, G750JH, G750JM, G750JS, G750JZ</li>
+<li>G751</li>
+<li>ZenBook Pro UX501 (UX501VW-DS71T)(Thunderbolt 3)</li>
+<li>G752 (<a href="/wiki/USB_Type-C" title="USB Type-C">USB Type-C</a>/<a href="/wiki/Thunderbolt_3" class="mw-redirect" title="Thunderbolt 3">Thunderbolt 3</a> combo )</li>
+</ul>
+<dl>
+<dt><a href="/wiki/Clevo" title="Clevo">Clevo</a></dt>
+</dl>
+<ul>
+<li>P370SM</li>
+<li>P375SM</li>
+<li>P750DM,<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup> P751DM<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup> (Thunderbolt 3)</li>
+<li>P770DM,<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup> P771DM,<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup> P773DM-GS<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup> P775DM<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup> (Thunderbolt 3)</li>
+<li>P870DM (Thunderbolt 3)<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup></li>
+</ul>
+<dl>
+<dt><a href="/wiki/Dell" title="Dell">Dell</a></dt>
+</dl>
+<ul>
+<li>Precision M3800</li>
+<li>Precision 3510 (Thunderbolt 3)</li>
+<li>Precision 5510 (Thunderbolt 3)</li>
+<li>Precision 7510 (Thunderbolt 3)</li>
+<li>Precision 7710 (Thunderbolt 3)</li>
+<li>XPS 13, XPS 15 (Both are Thunderbolt 3, October 2015)</li>
+<li>Alienware 13,Alienware 15,Alienware 17 (Thunderbolt 3, around October 2015)</li>
+<li>XPS 12 (Thunderbolt 3, October 2015)<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup></li>
+</ul>
+<dl>
+<dt><a href="/wiki/Hewlett_Packard" class="mw-redirect" title="Hewlett Packard">Hewlett Packard</a></dt>
+</dl>
+<ul>
+<li>HP Envy Spectre XT TouchSmart (December 2012)<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[14]</a></sup></li>
+<li>ZBook 15 Mobile Workstation</li>
+<li>ZBook 15 G2 Mobile Workstation</li>
+<li>ZBook 17 Mobile Workstation</li>
+<li>ZBook 17 G2 Mobile Workstation</li>
+<li>Elite X2-1012 convertible (Thunderbolt 3) <sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[15]</a></sup></li>
+<li>HP Spectre 13 2016 (Thunderbolt 3) <sup id="cite_ref-16" class="reference"><a href="#cite_note-16">[16]</a></sup></li>
+<li>ZBook Studio G3 Mobile Workstation (Thunderbolt 3)</li>
+</ul>
+<dl>
+<dt><a href="/wiki/Lenovo" title="Lenovo">Lenovo</a></dt>
+</dl>
+<ul>
+<li>Thinkpad Edge S430 (only some versions with <a href="/wiki/Intel_Core" title="Intel Core">Intel Core</a> i5 and i7 CPUs)</li>
+<li>Thinkpad T430s (only some versions with an Intel Core i7 CPU without <a href="/wiki/Nvidia" title="Nvidia">Nvidia</a> graphics)</li>
+<li>ThinkPad W540</li>
+<li>ThinkPad W541</li>
+<li>ThinkPad P50<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">[17]</a></sup></li>
+<li>ThinkPad P70<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">[18]</a></sup></li>
+</ul>
+<dl>
+<dt><a href="/wiki/Micro-Star_International" title="Micro-Star International">MSI</a></dt>
+</dl>
+<ul>
+<li>WS60</li>
+<li>GS40 "Phantom" (Thunderbolt 3)</li>
+<li>gs60 "Ghost Stealth" (Thunderbolt 3)</li>
+</ul>
+<dl>
+<dt>Overam</dt>
+</dl>
+<ul>
+<li>Mirage 9377</li>
+</ul>
+<dl>
+<dt><a href="/wiki/Razer_Inc." title="Razer Inc.">Razer</a></dt>
+</dl>
+<ul>
+<li>Razer Blade Stealth (Thunderbolt 3)</li>
+<li>The New Razer Blade (Thunderbolt 3)</li>
+<li>Razer Core<sup id="cite_ref-19" class="reference"><a href="#cite_note-19">[19]</a></sup>(Thunderbolt 3, August 2016)</li>
+</ul>
+<dl>
+<dt><a href="/wiki/Sager_Notebook_Computers" title="Sager Notebook Computers">Sager</a></dt>
+</dl>
+<ul>
+<li>NP9380</li>
+<li>NP9390</li>
+</ul>
+<dl>
+<dt>Schenker Technologies</dt>
+</dl>
+<ul>
+<li>XMG P723</li>
+</ul>
